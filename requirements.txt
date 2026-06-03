@@ -1,0 +1,8 @@
+```txt
+numpy==1.26.4
+scipy==1.14.1
+matplotlib==3.9.2
+ripser==0.6.4
+scikit-learn==1.5.2
+gudhi==3.11.0
+pandas==2.2.3

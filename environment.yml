@@ -1,0 +1,15 @@
+name: paper_xvii
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy=1.26.4
+  - scipy=1.14.1
+  - matplotlib=3.9.2
+  - scikit-learn=1.5.2
+  - pandas=2.2.3
+  - pip
+  - pip:
+    - ripser==0.6.4
+    - gudhi==3.11.0

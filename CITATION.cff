@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Gao
+    given-names: Jian
+title: "Cognitive Entanglement Entropy and Critical Scaling in the Pyramid Knowledge Manifold"
+version: 1.0.0
+doi: 10.5281/zenodo.20428686
+date-released: 2026-06-03
+url: "https://github.com/gaojian810/paper_xvii_reproducibility"
+license: MIT
